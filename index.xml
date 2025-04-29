@@ -6,12 +6,19 @@
     <description>Recent content on Titanium Racing</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wind Tunnel Progress</title>
+      <link>/posts/wind-tunnel/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/wind-tunnel/</guid>
+      <description>&lt;p&gt;An important part of our engineering work is testing so that we can improve our car&amp;rsquo;s design. We have lots of good ideas about aerodynamics from real F1, but we also need see if those ideas work in reality. We have started to build a wind tunnel that will help us to see how our car will perform.&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;wind-tunnel-1.jpeg&#34;&#xA;    alt=&#34;Wind Tunnel Frame&#34; width=&#34;35%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;wind-tunnel-2.jpeg&#34;&#xA;    alt=&#34;Wind Tunnel Frame&#34; width=&#34;35%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;You can see above that we have created a strong frame for our wind tunnel. Soon we will attach the shell, windows, and fan and then seal it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Our Website is Live!</title>
       <link>/posts/live-website/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/posts/live-website/</guid>
       <description>&lt;p&gt;Our new website is live. We are looking forward to sharing our work on Titanium Racing with you.&lt;/p&gt;</description>
     </item>
